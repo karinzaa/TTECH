@@ -4,5 +4,5 @@
 |----|----|
 # TTECH
 
-### Deeplearning robotic project </n>
+### Deep-Learning robotic project </n>
 ***Note: `This project used Python.`***
