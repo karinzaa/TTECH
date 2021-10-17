@@ -15,4 +15,4 @@
 + Connect with our application for easy to used.
 
 
-***Note: `This project used Python.`***
+***Note: `This project used Jupyter.`***
